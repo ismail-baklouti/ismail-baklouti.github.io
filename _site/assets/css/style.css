@@ -28,12 +28,13 @@ body {
 .sidebar-sticky { position: sticky; top: 40px; text-align: center; }
 
 .profile-img {
-    width: 200px; height: 200px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: 50% 15%; /* Regulates your head position */
-    border: 5px solid rgba(255,255,255,0.1);
-    margin-bottom: 25px;
+    /* Adjust this: 5% moves your face DOWN, 50% is center */
+    object-position: 50% 5%; 
+    border: 5px solid rgba(255,255,255,0.15);
 }
 
 .sidebar h1 { font-size: 1.5rem; margin-bottom: 5px; font-weight: 700; }
