@@ -5,7 +5,7 @@ title: Home
 
 ## Biography
 
-I am a **Research Scientist** and Electromechanical Engineer with over 11 years of expertise in **Decarbonization strategies** and solar energy systems. My work focuses on high-level consultancy for the design of solar thermal and fluid dynamics systems, specializing in mathematical optimization using **Pyomo** and the development of **Digital Twins**. 
+I am a **Research Scientist** and **Electromechanical Engineer** with over 11 years of expertise in **Decarbonization strategies** and solar energy systems. My work focuses on high-level consultancy for the design of solar thermal and fluid dynamics systems, specializing in mathematical optimization using **Pyomo** and the development of **Digital Twins**. 
 
 
 ## Research Axes
