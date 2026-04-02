@@ -40,11 +40,18 @@
                     <p class="tagline">{{ site.description }}</p>
                 </div>
                 
-                <nav class="nav-links">
-                    <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> Email Me</a>
-                    <a href="https://scholar.google.com/citations?user=Af0tawMAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-                    <a href="https://orcid.org/0000-0002-6847-9017" target="_blank"><i class="fab fa-orcid"></i> ORCID Profile</a>
-                </nav>
+                                <nav class="nav-links">
+                                        {% if site.email or site.alt_email %}
+                                            {% if site.email %}{% assign mail_addr = site.email %}{% else %}{% assign mail_addr = site.alt_email %}{% endif %}
+                                            {% assign email_subject = "Contact: Send Our Email" | uri_escape %}
+                                            {% assign email_body = "Hello Dr. Baklouti,%0D%0A%0D%0AI am contacting you regarding...%0D%0A%0D%0ARegards," | uri_escape %}
+                                            <a href="mailto:{{ mail_addr }}?subject={{ email_subject }}&body={{ email_body }}" title="Send an email to {{ mail_addr }}" aria-label="Email Me"><i class="fas fa-envelope"></i> Email Me</a>
+                                        {% else %}
+                                            <span class="disabled-link" aria-hidden="true"><i class="fas fa-envelope"></i> Email Me</span>
+                                        {% endif %}
+                                        <a href="https://scholar.google.com/citations?user=Af0tawMAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+                                        <a href="https://orcid.org/0000-0002-6847-9017" target="_blank"><i class="fab fa-orcid"></i> ORCID Profile</a>
+                                </nav>
 
                 <div class="sidebar-footer">
                     <p>© {{ "now" | date: "%Y" }} Ismail Baklouti</p>
