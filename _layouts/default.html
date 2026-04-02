@@ -41,7 +41,7 @@
                 </div>
                 
                                 <nav class="nav-links">
-                                    {% if site.email or site.alt_email %}
+                                    {% if site.email %}     
                                         <!-- Use a JS trigger instead of mailto to hide email and allow file uploads -->
                                         <a href="javascript:void(0)" onclick="openContactModal()" title="Contact" aria-label="Contact"><i class="fas fa-envelope"></i> Email Me</a>
                                     {% else %}
