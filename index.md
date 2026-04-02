@@ -7,7 +7,11 @@ title: Home
 
 I am a **Research Scientist** and Electromechanical Engineer with over 11 years of expertise in **Decarbonization strategies** and solar energy systems. My work focuses on high-level consultancy for the design of solar thermal and fluid dynamics systems, specializing in mathematical optimization using **Pyomo** and the development of **Digital Twins**. 
 
-I have a proven track record in project management and research expertise, having previously served as a Research Expert at the Faculty of Sciences of Sfax.
+
+## Research Axes
+
+- **Mathematical Modeling of Solar Thermal Systems:** Development of mathematical and computational models for the design, optimization and control of solar thermal and fluid systems.
+- **Robotic Kinematic Calibration:** Methods and algorithms for precise kinematic calibration of robotic manipulators to improve accuracy and repeatability.
 
 ---
 
