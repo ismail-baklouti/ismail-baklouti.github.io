@@ -1,5 +1,5 @@
 - category: "Programming & Data Science"
-  tools: ["Python (Pyomo, NumPy, Pandas, TensorFlow)", "Matplotlib & Scipy", "MATLAB", "Jupyter Notebooks", "C++", "LaTeX"]
+  tools: ["Python (Pyomo, NumPy, Pandas, TensorFlow)", "Julia (JuMP)", "Matplotlib & Scipy", "MATLAB", "Jupyter Notebooks", "C++", "LaTeX"]
 
 - category: "Simulation & CFD"
   tools: ["ANSYS Fluent", "OpenFOAM", "COMSOL Multiphysics", "PVsyst", "Dynamic Thermal Modeling"]
