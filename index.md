@@ -5,7 +5,7 @@ title: Home
 
 ## Biography
 
-I am a **Research Scientist** specializing in decarbonization engineering strategies via advanced Computational Modeling. My academic background includes a degree in **Electromechanical Engineering** (2011), a **Research Master’s in Mechanical Engineering** (2012), and a **PhD in Energy Engineering** (2021). 
+I am a **Research Scientist** specializing in decarbonization engineering strategies via advanced Computational Modeling. I received my degree in **Electromechanical Engineering** (2011) and my **Research Master’s in Mechanical Engineering** (2012) from the **National School of Engineers of Sfax**, followed by a **PhD in Energy Engineering** (2021) from the **National School of Engineers of Monastir**.
 
 With over a decade of experience in research and technical consulting, my work focuses on the design, optimization, and control of complex mechanical and thermal energy systems. I specialize in developing **Digital Twins** and solving mathematical optimization problems using advanced programming tools, particularly **Python (Pyomo)** and **Julia (JuMP)**.
 
