@@ -5,17 +5,22 @@ title: Home
 
 ## Biography
 
-I am a **Research Scientist** and **Electromechanical Engineer** with over 11 years of expertise in **Decarbonization strategies** and solar energy systems. My work focuses on high-level consultancy for the design of solar thermal and fluid dynamics systems, specializing in mathematical optimization using **Pyomo** and the development of **Digital Twins**. 
+I am a **Research Scientist** and **Electromechanical Engineer** specializing in decarbonization engineering strategies via advanced Computational Modeling. My academic background includes an Engineering degree in **Electromechanical Engineering** (2011), a **Research Master’s in Mechanical Engineering** (2012), and a **PhD in Energy Engineering** (2021). 
 
+With over a decade of experience in research and technical consulting, my work focuses on the design, optimization, and control of complex mechanical and thermal energy systems. I specialize in developing **Digital Twins** and solving mathematical optimization problems using advanced programming tools, particularly **Python (Pyomo)** and **Julia (JuMP)**.
 
-## Research Axes
+---
 
-- **Mathematical Modeling of Solar Thermal Systems:** Development of mathematical and computational models for the design, optimization and control of solar thermal and fluid systems.
-- **Robotic Kinematic Calibration:** Methods and algorithms for precise kinematic calibration of robotic manipulators to improve accuracy and repeatability.
+## Research Areas
+
+*   **Mathematical Modeling of Thermal Energy Systems:** Developing computational and mathematical models for the design, optimization, and control of thermal, fluid, and mechanical energy systems.
+*   **Robotic Kinematic Calibration:** Designing precise algorithms and methodology for the kinematic calibration of robotic manipulators to enhance accuracy and repeatability.
 
 ---
 
 ## Technical Expertise
+
+My technical focus centers on mathematical programming, scientific computing, and energy system simulation, with a primary emphasis on **Python (Pyomo)** and **Julia (JuMP)**.
 
 <div class="skill-container">
 {% for skill in site.data.skills %}
