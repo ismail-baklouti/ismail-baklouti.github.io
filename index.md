@@ -11,9 +11,9 @@ With over a decade of experience in research and technical consulting, my work f
 
 ---
 
-## Research Areas
+## Research Areas in Mathematical Modeling & Optimization 
 
-*   **Mathematical Modeling of Thermal Energy Systems:** Developing computational and mathematical models for the design, optimization, and control of thermal, fluid, and mechanical energy systems.
+*   **Thermal Energy Systems:** Developing computational and mathematical models for the design, optimization, and control of thermal, fluid, and mechanical energy systems.
 *   **Robotic Kinematic Calibration:** Designing precise algorithms and methodology for the kinematic calibration of robotic manipulators to enhance accuracy and repeatability.
 
 ---
