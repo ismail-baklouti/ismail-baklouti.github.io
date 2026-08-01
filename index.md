@@ -13,8 +13,8 @@ With over a decade of experience in research and technical consulting, my work f
 
 ## Research Areas in Mathematical Modeling & Optimization 
 
-*   **Thermal Energy Systems:** Developing computational and mathematical models for the design, optimization, and control of thermal, fluid, and mechanical energy systems.
-*   **Robotic Kinematic Calibration:** Designing precise algorithms and methodology for the kinematic calibration of robotic manipulators to enhance accuracy and repeatability.
+*   **Thermal & Renewable Energy Systems:** Developing computational and mathematical models for the design, optimization, and control of multi-carrier thermal, fluid, and mechanical energy systems.
+*   **Hybrid AI-NLP Optimization & Digital Twins:** Pioneering physics-informed hybrid paradigms that combine Artificial Intelligence (machine learning ensembles, surrogate models) with Non-Linear Programming (Pyomo/IPOPT) for high-throughput parameter extraction, exact physical constraint satisfaction, and real-time digital twin simulations.
 
 ---
 
