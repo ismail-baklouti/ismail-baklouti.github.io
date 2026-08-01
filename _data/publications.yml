@@ -1,3 +1,12 @@
+# ==============================================================================
+# 2026 PUBLICATIONS
+# ==============================================================================
+- title: "Self-sufficient smart hangar with mobile vertical metallic park for EVs: A 3D approach to urban charging and renewable energy integration"
+  authors: "I. Baklouti, M.A. Mujeebu, S. Patil, A.M. Qahtan"
+  journal: "Book Chapter: Renewable-to-Vehicle Smart Charging (Elsevier)"
+  year: 2026
+  link: "https://doi.org/10.1016/B978-0-443-36684-0.00013-8"
+
 - title: "Next-generation renewable thermal systems: A roadmap for integration, intelligence, and decarbonization"
   authors: "I. Baklouti, M.A. Mujeebu, M.M. Noor"
   journal: "Applied Thermal Engineering"
@@ -16,9 +25,12 @@
   year: 2026
   link: "https://doi.org/10.1016/j.solener.2025.114072"
 
+# ==============================================================================
+# 2025 PUBLICATIONS
+# ==============================================================================
 - title: "RenewGenix: A Next-Generation Open-Source Polygeneration Simulation Platform for Sustainable Energy Systems"
   authors: "I. Baklouti"
-  journal: "Book Chapter: Sustainable Supply Chain of Renewable Energy Networks"
+  journal: "Book Chapter: Sustainable Supply Chain of Renewable Energy Networks (Springer)"
   year: 2025
   link: "https://doi.org/10.1007/978-981-96-4940-2_10"
 
@@ -40,6 +52,9 @@
   year: 2025
   link: "https://doi.org/10.1016/j.jobe.2025.114296"
 
+# ==============================================================================
+# 2024 - 2012 PUBLICATIONS
+# ==============================================================================
 - title: "Numerical study of the air outlet effect inside a living room connected to an aerovoltaic solar air heater"
   authors: "S. Driss, R. Boudhiaf, A. Hmid, I. Baklouti, et al."
   journal: "CFD Letters"
