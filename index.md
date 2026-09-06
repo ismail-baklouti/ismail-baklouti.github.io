@@ -32,6 +32,12 @@ My technical focus centers on mathematical programming, scientific computing, an
 
 ---
 
+## Professional Service & Committees
+
+* **Technical Program Committee (TPC) Member**, *The 12th International Conference on New Energy and Future Energy Systems ([NEFES 2027](https://www.intergridconf.org/TPC))*, Osaka, Japan.
+
+---
+
 ## Publications
 
 {% assign publications_by_year = site.data.publications | group_by: "year" %}
