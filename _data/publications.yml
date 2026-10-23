@@ -1,6 +1,12 @@
 # ==============================================================================
 # 2026 PUBLICATIONS
 # ==============================================================================
+- title: "A review of Artificial Intelligence-enhanced thermal cycles and system optimization for waste heat recovery"
+  authors: "I. Baklouti, M.A. Mujeebu, M.M. Noor"
+  journal: "Applied Thermal Engineering"
+  year: 2026
+  link: "https://doi.org/10.1016/j.applthermaleng.2026.133547"
+  
 - title: "System-level exergo-hydraulic optimization and dynamic modeling of a Geo-Aero-Voltaic bifluid collector with dual thermal loops"
   authors: "I. Baklouti, M.A. Mujeebu, M.M. Noor"
   journal: "Energy"
